@@ -1,4 +1,4 @@
-import DailyEntryForm from '@/components/DailyEntryForm'
+import DailyEntryForm from '../components/DailyEntryForm'
 
 export default function HomePage() {
   return (
